@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For TimeController
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+fpsController_t	KEYWORD1
+timedFunction_t	KEYWORD1
+TimeController	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+fpsController_t_setFpsTrigger	KEYWORD2
+initializeFPSController	KEYWORD2
+controlFPS	KEYWORD2
+addTimedFunction	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
